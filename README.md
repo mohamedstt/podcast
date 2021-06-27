@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src="podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 ## Podcastr
@@ -17,7 +17,7 @@
 
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src="tech-logos.png" alt="Technologies used">
 </div>
 
 This project was developed using cutting edge front-end technologies.
