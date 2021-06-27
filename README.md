@@ -4,7 +4,7 @@
 
 ## Podcastr
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/mohamedstt)
+[![Author](https://img.shields.io/badge/author-mohamedstt-8257E5?style=flat-square)](https://github.com/mohamedstt)
 
 
 <h4 align="center">
